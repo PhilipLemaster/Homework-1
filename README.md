@@ -10,5 +10,4 @@ could more easily make changes.
 I fixed the routing of the link for 'Search Engine Optimization', as this link did not work properly beforehand.
 I added a concise title for the website and alternative IDs for images to enhance accessibilty.
 
-# This was a fun assignment that tested and honed my ability to identify how code can be condensed
-# and updated to enhance readabity, accessibility, and long-term sustainability.
+# This was a fun assignment that tested and honed my ability to identify how code can be condensed and updated to enhance readabity, accessibility, and long-term sustainability.
